@@ -1,0 +1,11 @@
+POST http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+    "orgid":"12233",
+    "fullname":"Abcdffxfcg",
+    "username":"a",
+    "designation":"tse",
+    "password":"abcabcc",
+    "age":"10"
+}
